@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aph:home|Door43 (aph)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aph|d43-aph repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aph/archive/master.zip|d43-aph.zip]]
+
+**Recent Changes**
+{{changes>ns = aph}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aph|Ethnologue data]]
+
